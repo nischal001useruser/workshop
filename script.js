@@ -1,7 +1,7 @@
 let a=10;
 let b="hello";
 let c=true;
-let d=null;
+let d = null;
 
 let e;
 let f= {name: "John", age: 30};
